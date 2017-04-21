@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/square.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/gameFont.spritefont</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/road_0.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/road_1.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/road_2.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/road_3.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/road_4.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/road_5.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/road_6.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/road_7.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/road_8.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/road_9.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/road_10.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/road_11.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/road_12.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/road_13.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/road_14.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/road_15.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/button.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/button_buldoze.png</File>
+    <File>C:/Users/rober/Desktop/Z/SquareTime/SquareTime/Content/res-level-0.png</File>
+  </SourceFiles>
+</SourceFileCollection>
